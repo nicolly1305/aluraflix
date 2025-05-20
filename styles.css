@@ -3,7 +3,6 @@ body  {
     background-color: black;
     margin: 0px;
     font-family: "chakra petch", sans-serif;
-    
 }
 
 header {
@@ -11,5 +10,4 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228) ;
-
 }
