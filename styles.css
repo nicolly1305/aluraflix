@@ -6,8 +6,14 @@ body  {
 }
 
 header {
-    border-bottom: olid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(8, 102, 53);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228) ;
+    color: rgb(8,102,53) ;
+
 }
+
+
+  chamada{
+       background:rgb(12,139,67)
+  }
